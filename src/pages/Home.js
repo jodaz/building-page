@@ -33,7 +33,7 @@ const Home = () => {
                     display: 'flex',
                     fontWeight: 500,
                 }}>
-                    El Macarapanero
+                    Building page
                 </Box>
             </Box>
         </Box>
